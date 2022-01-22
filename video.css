@@ -1,0 +1,55 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background-color: black;
+}
+
+.logo-img {
+  width: 200px;
+  margin-top: 15px;
+  margin-bottom: 15px;
+}
+
+.logo-conteiner {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.video-container {
+  padding: 20px;
+}
+
+.logo-mini {
+  width: 100px;
+}
+
+.footer {
+  background-color: black;
+}
+
+.h3-footer {
+  color: #dfc94e;
+  margin: 0;
+  text-align: center;
+  padding: 20px;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.title {
+  color: #dfc94e;
+  margin-top: 16px;
+  text-align: center;
+  font-family: "Lobster", cursive;
+  font-size: 40px;
+}
+
+.video {
+  height: 315px;
+  width: 100%;
+}
